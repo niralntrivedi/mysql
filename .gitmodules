@@ -1,0 +1,9 @@
+[submodule "environment/cookbooks/mysql"]
+	path = environment/cookbooks/mysql
+	url = https://github.com/opscode-cookbooks/mysql.git
+[submodule "environment/cookbooks/yum-mysql-community"]
+	path = environment/cookbooks/yum-mysql-community
+	url = https://github.com/opscode-cookbooks/yum-mysql-community.git
+[submodule "environment/cookbooks/yum"]
+	path = environment/cookbooks/yum
+	url = https://github.com/opscode-cookbooks/yum.git
